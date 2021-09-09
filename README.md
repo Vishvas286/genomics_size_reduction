@@ -1,4 +1,4 @@
-<h1> Accelerator for Genomics</h1>
+<h1> Size Reduction of base calling model</h1>
 This repository contains all the necessary files to perform pruning and quantization on the Taiyaki base calling models.
 <br><br>
 
