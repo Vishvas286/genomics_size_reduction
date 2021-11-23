@@ -76,3 +76,7 @@ Once the vcf files are obtained, for evaluation you can use a python script call
 
 The Clair3 repository also has details about how to use intsall the required tools for running evaluation using "hap.py". 
 
+<br><br>
+<h2>Results</h2>
+
+All the details of the project and results are documented [here](https://github.com/Vishvas286/genomics_size_reduction/blob/main/Report.pdf).
